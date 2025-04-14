@@ -74,9 +74,9 @@ python game.py
 ## 🙋‍♂️ Author
 
 **Maheswaram M V Subrahmanyam**  
-📧 [maheswaram.dev@gmail.com](mailto:maheswaram.dev@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/maheswaram-subrahmanyam)  
-🌐 [Portfolio](https://maheswaram.me)
+📧 [msdevgoog01@gmail.com](mailto:msdevgoog01@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/maheswaram-subrahmanyam-361238275/)  
+🌐 [Portfolio](https://maheswaramsubrahmanyam.github.io/Maheswaram-Subrahmanyam-Potfolio-website/)
 
 ---
 
