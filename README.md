@@ -35,9 +35,11 @@ pip install opencv-python mediapipe pyautogui
 **▶️ Run the Project**
 ```bash
 
-python gesture_controller.py
-⚠️ IMPORTANT: Keep the game window focused (e.g., Subway Surfers in browser) after running the script.
+python game.py
+
 ```
+**⚠️ IMPORTANT:** Keep the game window focused (e.g., Subway Surfers in browser) after running the script.
+
 **🧠 How It Works**
 🎥 Captures webcam feed using OpenCV
 
