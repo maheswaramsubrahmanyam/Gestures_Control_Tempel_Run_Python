@@ -64,7 +64,7 @@ python gesture_controller.py
 
 - Run the script **before** focusing the game window  
 - Works best in **well-lit** environments  
-- Add your own gestures by modifying `gesture_controller.py` logic  
+- Add your own gestures by modifying `game.py` logic  
 
 ---
 
@@ -98,8 +98,8 @@ Feel free to use, modify, and share it.
 - Replace `YOUR_VIDEO_ID` in the demo link with your YouTube video ID.
 - Double-check and update:
   - GitHub username in the clone URL
-  - Your professional email
-  - LinkedIn and portfolio URLs
+  - msdevgoog01@gmail.com
+  - https://www.linkedin.com/in/maheswaram-subrahmanyam-361238275/
 
 Would you like me to design a **custom GitHub banner image** (with your name, logo, and colors) to go along with this README?
 
