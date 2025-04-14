@@ -7,7 +7,7 @@ This bot simulates keyboard inputs based on real-time hand tracking and works se
 
 ## 📽️ Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://youtu.be/tU3b43tUR5Y))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/tU3b43tUR5Y))
 
 ---
 
@@ -97,11 +97,6 @@ Feel free to use, modify, and share it.
 
 ### ✅ What You Should Replace (If Not Already):
 
-- Replace `YOUR_VIDEO_ID` in the demo link with your YouTube video ID.
-- Double-check and update:
-  - GitHub username in the clone URL
-  - msdevgoog01@gmail.com
-  - https://www.linkedin.com/in/maheswaram-subrahmanyam-361238275/
+- Replace `[YOUR_VIDEO_ID](https://youtu.be/tU3b43tUR5Y)` in the demo link with your YouTube video ID.
 
-Would you like me to design a **custom GitHub banner image** (with your name, logo, and colors) to go along with this README?
 
