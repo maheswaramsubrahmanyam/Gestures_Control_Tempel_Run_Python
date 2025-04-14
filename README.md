@@ -1,7 +1,7 @@
 # 🖐️ Gesture Controlled Game Bot 🎮
 
 Control your favorite games with just your hand gestures using **Python**, **OpenCV**, and **MediaPipe**.  
-This bot simulates keyboard inputs based on real-time hand tracking and works seamlessly with browser games like **Subway Surfers on Poki.com**.
+This bot simulates keyboard inputs based on real-time hand tracking and works seamlessly with browser games like **Tempel run, Subway Surfers on Poki.com**.
 
 ---
 
