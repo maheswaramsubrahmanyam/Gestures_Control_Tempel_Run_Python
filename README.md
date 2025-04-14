@@ -7,7 +7,8 @@ This bot simulates keyboard inputs based on real-time hand tracking and works se
 
 ## 📽️ Demo
 
-[![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://youtu.be/tU3b43tUR5Y))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/tU3b43tUR5Y))
+[![Watch the demo](![image](https://github.com/user-attachments/assets/0b3b674f-815b-47b7-8182-44116299f8fe)
+](https://youtu.be/tU3b43tUR5Y))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/tU3b43tUR5Y))
 
 ---
 
