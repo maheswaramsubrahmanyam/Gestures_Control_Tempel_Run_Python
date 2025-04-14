@@ -95,9 +95,3 @@ Feel free to use, modify, and share it.
 
 
 ---
-
-### ✅ What You Should Replace (If Not Already):
-
-- Replace `[YOUR_VIDEO_ID](https://youtu.be/tU3b43tUR5Y)` in the demo link with your YouTube video ID.
-
-
