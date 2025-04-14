@@ -26,7 +26,7 @@ This bot simulates keyboard inputs based on real-time hand tracking and works se
 
 ```bash
 # Clone the repository
-git clone [https://github.com/maheswaram-mv/gesture-game-bot.git](https://github.com/maheswaramsubrahmanyam/Gestures_Control_Tempel_Run_Python.git)
+git clone https://github.com/maheswaramsubrahmanyam/Gestures_Control_Tempel_Run_Python.git
 
 
 # Install dependencies
