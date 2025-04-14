@@ -30,3 +30,76 @@ cd gesture-game-bot
 
 # Install dependencies
 pip install opencv-python mediapipe pyautogui
+
+```
+**▶️ Run the Project**
+```bash
+
+python gesture_controller.py
+⚠️ IMPORTANT: Keep the game window focused (e.g., Subway Surfers in browser) after running the script.
+```
+**🧠 How It Works**
+🎥 Captures webcam feed using OpenCV
+
+🖐️ Uses MediaPipe to detect hand landmarks
+
+✌️ Classifies gestures by analyzing finger positions
+
+⌨️ Triggers keyboard presses via PyAutoGUI
+
+## ✋ Supported Gestures
+
+| Gesture        | Action      | Key Press |
+|----------------|-------------|-----------|
+| ✊ Fist         | Slide       | ⬇️ Down   |
+| ☝️ Index Only  | Jump        | ⬆️ Up     |
+| ✌️ Peace Sign  | Move Right  | ➡️ Right  |
+| 👌 OK Sign     | Move Left   | ⬅️ Left   |
+| ✋ Open Palm    | Idle        | —         |
+
+
+---
+
+## 🛠️ Notes
+
+- Run the script **before** focusing the game window  
+- Works best in **well-lit** environments  
+- Add your own gestures by modifying `gesture_controller.py` logic  
+
+---
+
+## 🙋‍♂️ Author
+
+**Maheswaram M V Subrahmanyam**  
+📧 [maheswaram.dev@gmail.com](mailto:maheswaram.dev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/maheswaram-subrahmanyam)  
+🌐 [Portfolio](https://maheswaram.me)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and share it.
+
+---
+
+## 📝 To-Do
+
+- [ ] Add gesture customization UI  
+- [ ] Support for dual-hand gesture detection  
+- [ ] Expand compatibility to other games and emulators
+
+
+---
+
+### ✅ What You Should Replace (If Not Already):
+
+- Replace `YOUR_VIDEO_ID` in the demo link with your YouTube video ID.
+- Double-check and update:
+  - GitHub username in the clone URL
+  - Your professional email
+  - LinkedIn and portfolio URLs
+
+Would you like me to design a **custom GitHub banner image** (with your name, logo, and colors) to go along with this README?
+
